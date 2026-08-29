@@ -18,5 +18,4 @@ jobs:
       - name: Check files
         run: ls -la
 
-      - name: Break workflow
-        run: exit 1
+      
